@@ -12,9 +12,9 @@
   "config": [
     {
       "name": "twitter",
-      "timeline_read_count": 10,
-      "own_tweet_replies_count": 2,
-      "tweet_interval": 5400
+      "timeline_read_count": 50,
+      "own_tweet_replies_count": 5,
+      "tweet_interval": 800
     },
     {
       "name": "farcaster",
